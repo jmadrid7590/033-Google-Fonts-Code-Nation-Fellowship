@@ -1,0 +1,40 @@
+h1{
+    font-family: Helvetica;
+}
+
+h1:hover {
+  background-color: #00ffcc;
+}
+
+img{
+    border: dotted 3px;
+    color: #fee975;
+}
+
+.about{
+    color: #0080ff;
+}
+
+.bark{
+font-family: 'Goldman', cursive;
+}
+   
+.seatgeek {
+    font-family:'Roboto', sans-serif;
+}
+
+.etsy{
+    font-family: 'Lato', sans-serif;
+}
+
+.amex{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.google{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.CNFP{
+    color: #0080ff; 
+}
